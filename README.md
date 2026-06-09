@@ -2,13 +2,12 @@
 
 # 📝 Programmers Coding Test Practice
 
-프로그래머스(Programmers) 코딩 테스트 문제 풀이를 기록하는 저장소입니다.
+프로그래밍 기능사 필기를 연습하는 저장소입니다.
 
 ---
 
 ## 🛠️ 연습 언어
   * **Language**: Java / C / Python
-* **Platform**: [Programmers](https://programmers.co.kr/)
 
 ---
 
