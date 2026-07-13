@@ -1,7 +1,7 @@
 nums = [3, 6, 9, 12, 15]
 result = []
 for n in nums:    
-  if n > 10:       
+  if n > 10:   
     result.append(n - 2)    
   else:        
     result.append(n + 1)
