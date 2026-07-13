@@ -7,6 +7,6 @@
 ---
 
 ## 🛠️ 연습 언어
-  * **Language**: Java / C / Python
+  * **Language**: Java / C / Python / Linux
 
 ---
